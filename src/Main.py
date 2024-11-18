@@ -190,7 +190,7 @@ data_pred = normalize_column_to_range(data_pred,"score",data_pred['score'].min()
 # Select necessary columns
 X_pred = data_pred.iloc[:,9:15]
 y_pred = data_pred['score']
-y = data['score']
+y = data['score'] # HUMAN scores from original data
 
 data_train, data_val, y_train, y_val = train_test_split(data, y, test_size=0.2, random_state=42, shuffle = True)
 X_train = data_train.iloc[:,9:15]

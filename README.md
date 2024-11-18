@@ -12,6 +12,10 @@ How To Use
 --------------
 
 This code uses the full extended version of BabelNet. Please refer to [BabelNet](https://babelnet.org/license) to get full access.
+See babelnet-server -> Main.java for localhost API server to access babelnet files.
+Main.py -> Function for creating BiVert category data and training.
+
+For data files please refer to [WMT MQM Metrics Task](https://www.statmt.org/wmt22/metrics/index.html).
 
 
 Citations
