@@ -39,6 +39,3 @@ If you find our code/paper/method helpful, please cite our paper 📝 and star u
       url={https://arxiv.org/abs/2403.03521}, 
 }
 ```
-
-# Acknowledgements
-We thank the reviewers for their valuable comments.
