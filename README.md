@@ -14,7 +14,8 @@ How To Use
 This code uses the full extended version of BabelNet. Please refer to [BabelNet](https://babelnet.org/license) to get full access.
 
 
-## Citations
+Citations
+--------------
 If you find our code/paper/method helpful, please cite our paper 📝 and star us ⭐️！
 
 ```
