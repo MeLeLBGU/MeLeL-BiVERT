@@ -1,0 +1,17 @@
+py-babelnet 
+nltk 
+datasets 
+translate 
+tensorflow 
+tensorflow_hub 
+tensorflow_text 
+sentencepiece 
+transformers 
+sacremoses 
+bidi 
+deep_translator 
+sentence_transformers 
+unidecode 
+simplemma 
+munkres 
+stopwordsiso 

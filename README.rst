@@ -1,10 +1,33 @@
-Machine Translation Evaluation Exploration
+BiVERT: Bidirectional Vocabulary Evaluation using Relations for Machine Translation
 ================================================
 
-Abstract
---------
+[BIVERT arxiv](https://arxiv.org/abs/2403.03521) / [BabelNet](https://babelnet.org/)
 
-Machine Translation is one of the important NLP tasks. Most of the MT evaluations do not consider the actual semantic meaning of the translation and source text. 
-We present to you a new evaluation method that considers the distance of the translated text from the source text.
+Introduction
+------------
 
-Using graph relations from babelnet.
+BiVERT is a new evaluation method for machine translation. It uses BabelNet. This repository contains the code for BiVERT. 
+
+How To Use
+--------------
+
+This code uses the full extended version of BabelNet. Please refer to [BabelNet](https://babelnet.org/license) to get full access.
+
+
+## Citations
+If you find our code/paper/method helpful, please cite our paper 📝 and star us ⭐️！
+
+```
+@misc{cherf2024bivertbidirectionalvocabularyevaluation,
+      title={BiVert: Bidirectional Vocabulary Evaluation using Relations for Machine Translation}, 
+      author={Carinne Cherf and Yuval Pinter},
+      year={2024},
+      eprint={2403.03521},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2403.03521}, 
+}
+```
+
+# Acknowledgements
+We thank the reviewers for their valuable comments.
