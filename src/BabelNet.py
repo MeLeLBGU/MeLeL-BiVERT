@@ -164,7 +164,7 @@ class BabelNet:
 
     try:
       senses_list = senses_list["senses"]
-      word_capital = word[0].upper() + word[1:] # TODO Should it be removed?
+      word_capital = word[0].upper() + word[1:] 
       # lemmas = [sense["properties"]["fullLemma"] for sense in senses_list if (sense["properties"]["pos"]=='VERB' or sense["properties"]["pos"]=='NOUN') and
       #                                                                         word_capital not in sense["properties"]["fullLemma"] and
       #                                                                         sense["properties"]["language"]==self.targetLang]
